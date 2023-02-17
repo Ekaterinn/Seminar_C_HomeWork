@@ -2,7 +2,7 @@
 
 Console.Write("Введите число: ");
 int N = int.Parse(Console.ReadLine()!);
-int A = 1;
+int A = 0;
 
 while (A <= N)
 {

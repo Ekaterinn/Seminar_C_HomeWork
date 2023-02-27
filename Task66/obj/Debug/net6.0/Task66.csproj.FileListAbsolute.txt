@@ -1,0 +1,15 @@
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\bin\Debug\net6.0\Task66.exe
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\bin\Debug\net6.0\Task66.dll
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\bin\Debug\net6.0\Task66.pdb
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.dll
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.pdb
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\Acer_Document\IT\Знакомство с языками программирования\Урок 1. Знакомство с языком программирования С#_семинары\HomeWork_C#\Task66\obj\Debug\net6.0\ref\Task66.dll
